@@ -1,0 +1,26 @@
+body{
+    background-color:#EAF6F6 ;
+}
+h2{
+    color: #08d9d6;
+    font-style:italic;
+}
+h1{
+    color: #08d9d6;
+    font-style:italic ;
+}
+hr{
+    border: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width:5px;
+}
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 7px;
+}
+thead,th{
+    padding: 7px;
+    background-color: lightgray;
+}
